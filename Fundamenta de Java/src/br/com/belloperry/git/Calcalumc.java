@@ -9,6 +9,7 @@ public class Calcalumc {
 		// float e double sao tipos primitivos numericos
 		double peso,altura,imc;
 		// entrada
+		System.out.println("=========Calculo do IMC=========: ");
 		System.out.print("digite a peso: ");
 		// a linha abaixo uso objeto nome teclado usando o scanner
 		Scanner teclado = new Scanner(System.in);
