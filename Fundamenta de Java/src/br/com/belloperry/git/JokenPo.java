@@ -1,4 +1,8 @@
 package br.com.belloperry.git;
+/**
+ * Project para Prof Jose Assis
+ * @author Bello / Leandro
+ */
 
 import java.util.Scanner;
 
